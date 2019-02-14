@@ -1,4 +1,8 @@
-Disrupted industries:
+# New-industries
+
+Disrupted industries and the new industries coming for better
+
+## Disrupted industries
 
 * Gas/Petro
 * Bank
@@ -16,7 +20,7 @@ Disrupted industries:
 * PoW mining
 * Gov`s space agencies
 
-New industries:
+## New industries
 * Crypto exchanges
 * Crypto tokens
 * Modular car parts
