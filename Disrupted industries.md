@@ -8,29 +8,21 @@ Disrupted industries and the new industries coming for better
 * Bank
 * Wall ink
 * High labor
-* Telecom
 * Taxi
-* Private Investing
 * Cartoriums
 * Copyright offices
-* x86/ARM
+* x86
 * Silicon
-* Closed quantum computing
-* Statism/Corporativist
 * PoW mining
-* Gov`s space agencies
 
 ## New industries
 * Crypto exchanges
 * Crypto tokens
-* Modular car parts
-* Graphen
+* Graphene
 * VR accessories
-* Independent Internet parts
 * Robot labor
 * E-ink displays
 * RYSK-V CPUs
-* Open quantum computing
 * DAOs/DACs
 * Blockchain stake
 * Ethereum NFTs/Enjin
